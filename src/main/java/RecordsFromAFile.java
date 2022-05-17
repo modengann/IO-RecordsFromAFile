@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class RecordsFromAFile {
 
     public static void main(String[] args) {
+        //Use scanner to collect data from user (keyboard inputs)
         Scanner scanner = new Scanner(System.in);
 
     }
